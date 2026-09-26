@@ -1,0 +1,10 @@
+# Betriebssystem- und Editor-Dateien
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/
+
+# Lokale Vorschau- und Protokolldateien
+.sites-runtime/
+*.log
